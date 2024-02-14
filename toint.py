@@ -1,0 +1,5 @@
+edad = int(input('podrías darme tu edad por favor?')) 
+nombre = str(input('Podrías darme tu nombre?'))
+apellido = str(input('Podrías darme tus apellidos por favor? '))
+edad_en10 = str(edad + 10)
+print('Hola', nombre, apellido, ' tu edad es : ', edad, 'tu edad en 10 años es: ', edad_en10)
